@@ -1,5 +1,7 @@
 # GOOD HEALTH SECRET
-**Health is Wealth**
+
+**Health is Wealth** 
+
 Overview of daily nutritional requirements for an average adult human, including vitamins, minerals, protein, carbohydrates, fats, and others. These values can vary based on age, sex, activity level, and health conditions, but here’s a standard reference:
 
 **🥗 Macronutrients Recommended Daily Intake (RDI)**
